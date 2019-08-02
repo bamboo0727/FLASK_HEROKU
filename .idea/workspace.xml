@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d805a2d6-7380-4343-b42b-1379a696a04b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/FLASK_HEROKU.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/FLASK_HEROKU.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" />
-    </list>
+    <list default="true" id="c962e738-ba63-4ac6-924f-49dfddf6b9c1" name="Revert &quot;First Deploy&quot;" comment="Revert &quot;First Deploy&quot;&#10;&#10;This reverts commit 738a2957" />
+    <list id="d805a2d6-7380-4343-b42b-1379a696a04b" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +15,7 @@
         <entry file="file://$PROJECT_DIR$/app.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+              <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -44,6 +36,7 @@
     <option name="files">
       <list>
         <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
       </list>
     </option>
   </component>
@@ -99,16 +92,23 @@
       <option name="presentableId" value="Default" />
       <updated>1564760656152</updated>
     </task>
+    <task id="LOCAL-00001" summary="change aug 2nd">
+      <created>1564762706197</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1564762706197</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1440" y="-157" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1864139" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.32908705" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
@@ -124,11 +124,41 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change aug 2nd" />
+    <option name="LAST_COMMIT_MESSAGE" value="change aug 2nd" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+          <caret column="20" lean-forward="true" selection-start-column="20" selection-end-column="20" />
         </state>
       </provider>
     </entry>
